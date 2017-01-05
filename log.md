@@ -12,10 +12,10 @@
 
 **Today's Progress:** Worked on a few code challenges from FreeCodeCamp.
 
-**Thoughts:** Although the challenges were progressively more difficult, I found it easier once I was in a certain frame of mind. My default is to create an array, iterate through args, and push to that array (lol). Learned that you can create RegExp objects in JavaScript and `.match` will return either an array or `null`, but you can wrap it around a `Boolean` object to get a boolean.
+**Thoughts:** Although the challenges were progressively more difficult, I found it easier once I was in a certain frame of mind. My default is to create an array, iterate through args, and push to that array (lol). Learned that you can create RegExp objects in JavaScript and `.match` will return either an array or `null`, but you can wrap it around a `Boolean` object to get a boolean. I chose to refactor the Confirm Ending exercise because I knew the code was satisfying the existing tests but wasn't living up to the spirit and purpose of the challenge. Got to do some more regexin'.
 
 **Links:** 
-[Find the length of the longest word](https://gist.github.com/malinatran/d77cb690f84c32cfe06991772c5d850e)
-[Title case a sentence](https://gist.github.com/malinatran/2becb9579f4e5dfbfa3bed30e0e2f0ce)
-[Find the largest number in subarray](https://gist.github.com/malinatran/49630c40fbd2ac405960b70b7bbb314c)
-[Confirm ending of word or sentence](https://gist.github.com/malinatran/cdaccd2f9b4a40a1db993e4efa190a24)
+- [Find the length of the longest word](https://gist.github.com/malinatran/d77cb690f84c32cfe06991772c5d850e)
+- [Title case a sentence](https://gist.github.com/malinatran/2becb9579f4e5dfbfa3bed30e0e2f0ce)
+- [Find the largest number in subarray](https://gist.github.com/malinatran/49630c40fbd2ac405960b70b7bbb314c)
+- [Confirm ending of word or sentence](https://gist.github.com/malinatran/cdaccd2f9b4a40a1db993e4efa190a24)
