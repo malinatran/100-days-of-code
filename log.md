@@ -21,7 +21,7 @@
 - [Confirm ending of word or sentence](https://gist.github.com/malinatran/cdaccd2f9b4a40a1db993e4efa190a24)
 
 
-### Day 1: January 05, 2016
+### Day 2: January 05, 2016
 
 **Today's Progress:** Worked on my hosted tic-tac-toe game.
 
