@@ -27,4 +27,4 @@
 
 **Thoughts:** I really wanted to probe and see if I can make my game playable for two players. And guess what? I could! I set up another endpoint for two players and abstracted logic related to the game state. Users can click on the "2 Players" button and an Ajax request will hit the endpoint. It's less involved on the server side since the only logic my server will check for is whether the game has ended and if so, whether there is a winner. In terms of the UI, I'm storing the current player's marker and switching between the two.
 
-**Links:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server)
+**Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server)
