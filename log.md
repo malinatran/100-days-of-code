@@ -20,11 +20,18 @@
 - [Find the largest number in subarray](https://gist.github.com/malinatran/49630c40fbd2ac405960b70b7bbb314c)
 - [Confirm ending of word or sentence](https://gist.github.com/malinatran/cdaccd2f9b4a40a1db993e4efa190a24)
 
-
 ### Day 2: January 05, 2016
 
 **Today's Progress:** Worked on my hosted tic-tac-toe game.
 
 **Thoughts:** I really wanted to probe and see if I can make my game playable for two players. And guess what? I could! I set up another endpoint for two players and abstracted logic related to the game state. Users can click on the "2 Players" button and an Ajax request will hit the endpoint. It's less involved on the server side since the only logic my server will check for is whether the game has ended and if so, whether there is a winner. In terms of the UI, I'm storing the current player's marker and switching between the two.
+
+**Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server)
+
+### Day 3: January 06, 2016
+
+**Today's Progress:** Worked on my hosted tic-tac-toe game.
+
+**Thoughts:** I wanted to refactor my code and streamline the server's responsibility. What this means is that I wanted to hit the same endpoint (`/make_move`) no mattter if it's a single-player or two-player game. It was not too complex, but I was thrown off by one UI issue (the message board not being updated) and realizing that I needed to change the value passed to the server into a boolean, as opposed to "true" or "false" (string values).
 
 **Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server)
