@@ -35,3 +35,11 @@
 **Thoughts:** I wanted to refactor my code and streamline the server's responsibility. What this means is that I wanted to hit the same endpoint (`/make_move`) no mattter if it's a single-player or two-player game. It was not too complex, but I was thrown off by one UI issue (the message board not being updated) and realizing that I needed to change the value passed to the server into a boolean, as opposed to "true" or "false" (string values).
 
 **Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server)
+
+### Day 4: January 07, 2016
+
+**Today's Progress:** Worked on my hosted tic-tac-toe game.
+
+**Thoughts:** Didn't make much headway, except I migrated tests and added more test coverage to the `/make_move` endpoint. Explored an issue that I was having with receiving and responding to requests for the favicon. Still confused. 🤔
+
+**Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server)
