@@ -43,3 +43,12 @@
 **Thoughts:** Didn't make much headway, except I migrated tests and added more test coverage to the `/make_move` endpoint. Explored an issue that I was having with receiving and responding to requests for the favicon. Still confused. 🤔
 
 **Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server)
+
+
+### Day 5: January 08, 2016
+
+**Today's Progress:** Worked on my hosted tic-tac-toe game.
+
+**Thoughts:** More test coverage! Fixed a bug that occurred when playing a two-player game followed by plyaing a one-player game (the human player's marker was then X, not O). Spent only 40 min coding, but I think it's fair since I've been coding for 2 hrs+ on the other days. 
+
+**Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server)
