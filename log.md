@@ -44,7 +44,6 @@
 
 **Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server)
 
-
 ### Day 5: January 08, 2016
 
 **Today's Progress:** Worked on my hosted tic-tac-toe game.
@@ -52,3 +51,11 @@
 **Thoughts:** More test coverage! Fixed a bug that occurred when playing a two-player game followed by plyaing a one-player game (the human player's marker was then X, not O). Spent only 40 min coding, but I think it's fair since I've been coding for 2 hrs+ on the other days. 
 
 **Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server)
+
+### Day 6: January 09, 2016
+
+**Today's Progress:** Worked on a few code challenges from FreeCodeCamp.
+
+**Thoughts:** I got about a decent half-hour in after attending an evening event, but for the sake of sleep, I'm wrapping it up.
+
+**Link:** [Repeat string num times](https://gist.github.com/malinatran/5af72e5eb3ac2bca2a08f440188b7b25) and [truncate string](https://gist.github.com/malinatran/474753ee5f241938d955013f16463674)
