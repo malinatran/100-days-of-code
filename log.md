@@ -59,3 +59,11 @@
 **Thoughts:** I got about a decent half-hour in after attending an evening event, but for the sake of sleep, I'm wrapping it up.
 
 **Link:** [Repeat string num times](https://gist.github.com/malinatran/5af72e5eb3ac2bca2a08f440188b7b25) and [truncate string](https://gist.github.com/malinatran/474753ee5f241938d955013f16463674)
+
+### Day 7: January 10, 2016
+
+**Today's Progress:** Debugged hosted tic-tac-toe game.
+
+**Thoughts:** I was having major issues and after hours of exploring the source of these issues, realized that it was due to how I was storing a global variable. Another issue was a result of not properly translating a value of `nil` into a string. Sending a `nil` vlaue ends up just being blank. So many lessons learned, many hours later.
+
+**Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server)
