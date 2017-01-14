@@ -67,3 +67,19 @@
 **Thoughts:** I was having major issues and after hours of exploring the source of these issues, realized that it was due to how I was storing a global variable. Another issue was a result of not properly translating a value of `nil` into a string. Sending a `nil` vlaue ends up just being blank. So many lessons learned, many hours later.
 
 **Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server)
+
+### Day 8: January 11, 2016
+
+**Today's Progress:** Debugged hosted tic-tac-toe game.
+
+**Thoughts:** Fixed issue with shared state. 
+
+**Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server)
+
+### Day 9: January 13, 2016
+
+**Today's Progress:** Git && looking into Selenium webdriver.
+
+**Thoughts:** Tried to fix an old git message and wasn't able to rebase it without having merge conflics. This sent me a wild goose chase, and I still haven't been able to resolve. 
+
+**Link:** None!
