@@ -83,3 +83,11 @@
 **Thoughts:** Tried to fix an old git message and wasn't able to rebase it without having merge conflics. This sent me a wild goose chase, and I still haven't been able to resolve. 
 
 **Link:** None!
+
+### Day 10: January 14, 2016
+
+**Today's Progress:** Fix integration tests
+
+**Thoughts:** Having made changes to how my app operates, the integration tests necessitated changing as well ☺️
+
+**Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server)
