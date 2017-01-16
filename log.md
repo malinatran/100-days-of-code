@@ -91,3 +91,12 @@
 **Thoughts:** Having made changes to how my app operates, the integration tests necessitated changing as well ☺️
 
 **Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server)
+
+### Day 11: January 15, 2016
+
+**Today's Progress:** Refactor integration tests
+
+**Thoughts:** I re-wrote a Gherkin statement and implemented a step definition that is indicative of a two-player game. Originally, I just checked that I could see a 3x3 board being rendered but also wanted to demonstrated that as the user of a 2-player game with a marker of 'X', the user would be able to make the first move. I also worked on creating a linked list class in JavaScript, which was a tough but helpful exercise in thinking about basic data structures. 
+
+**Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server) and [linked list](https://gist.github.com/malinatran/18c03114d833527d1cacf1d0b6cce4ce)
+
