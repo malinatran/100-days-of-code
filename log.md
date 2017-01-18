@@ -100,3 +100,10 @@
 
 **Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server) and [linked list](https://gist.github.com/malinatran/18c03114d833527d1cacf1d0b6cce4ce)
 
+### Day 12: January 76, 2016
+
+**Today's Progress:** Continued linked list exercise
+
+**Thoughts:** Added `remove` method!
+
+**Link:** Will share later! #lazy
