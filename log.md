@@ -110,8 +110,10 @@
 
 ### Day 13: January 22, 2016
 
-**Today's Progress:** Reading about Big O notation, simple search, and binary search in "Grokking Algorithms"
+**Today's Progress:** Reading about Big O notation, simple & binary search, arrays & linked lists in "Grokking Algorithms"
 
-**Thoughts:** Have I really not done anything in 6 days?
+**Thoughts:** Have I really not done anything in 6 days? 😱 I started reading this book, which is really accessible, easy-to-read, and visual-heavy. All of the code is written in Python, which I've translated into Ruby just to make sure I understand them. There are also exercises which I've been following along.
 
-**Link:** [Binary search algorithm](https://gist.github.com/malinatran/65f56ed9d81a272c0ca58d7d7def571f)
+**Link:** 
+- [Binary search algorithm](https://gist.github.com/malinatran/65f56ed9d81a272c0ca58d7d7def571f)
+- [Selection sort](https://gist.github.com/malinatran/68486a0c6ce5c4511ae455eeab0a0660)
