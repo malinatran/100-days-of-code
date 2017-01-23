@@ -100,10 +100,18 @@
 
 **Link:** [Hosted TTT](https://github.com/malinatran/tic-tac-toe-x-web-server) and [linked list](https://gist.github.com/malinatran/18c03114d833527d1cacf1d0b6cce4ce)
 
-### Day 12: January 76, 2016
+### Day 12: January 16, 2016
 
 **Today's Progress:** Continued linked list exercise
 
 **Thoughts:** Added `remove` method!
 
 **Link:** Will share later! #lazy
+
+### Day 13: January 22, 2016
+
+**Today's Progress:** Reading about Big O notation, simple search, and binary search in "Grokking Algorithms"
+
+**Thoughts:** Have I really not done anything in 6 days?
+
+**Link:** [Binary search algorithm](https://gist.github.com/malinatran/65f56ed9d81a272c0ca58d7d7def571f)
