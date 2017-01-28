@@ -117,3 +117,11 @@
 **Link:** 
 - [Binary search algorithm](https://gist.github.com/malinatran/65f56ed9d81a272c0ca58d7d7def571f)
 - [Selection sort](https://gist.github.com/malinatran/68486a0c6ce5c4511ae455eeab0a0660)
+
+### Day 14: January 27, 2016
+
+**Today's Progress:** Revisited an old Rails project
+
+**Thoughts:** Just working on this for funsies. Decided to fix commit messages, remove year (whoa, 2015!), and make the icons on the dashboard clickable, and fixed some styling issue that resulted from that.
+
+**Link:** [dataDiary](https://github.com/malinatran/datadiary)
